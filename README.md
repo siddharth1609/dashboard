@@ -1,8 +1,5 @@
-# [Admin Dashboard Angular
-[![version][version-badge]][CHANGELOG]
-[![license][license-badge]][LICENSE]
-
-![alt text](https://s3.amazonaws.com/creativetim_bucket/products/58/original/opt_pd_angular_thumbnail.jpg "Admin Dashboard Free")
+# [Admin Dashboard Angular]
+By Siddharth Sonwane
 
 Paper Dashboard Angular is a Bootstrap Admin Template which combines soft colors with beautiful typography and spacious cards and graphics. It was built on top of Google's [Angular Framework](https://angular.io/) and the HTML version of [Dashboard](https://www.creative-tim.com/product/paper-dashboard). It is a powerful dashboard but it is light and easy to be used. It has enough features to allow you to get the job done, but it is not crowded to the point where you can't find the files for a specific component.
 
